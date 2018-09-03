@@ -1,0 +1,3 @@
+./apktool d demo.apk
+1. demo.apk 是要反编译的apk
+2. 如果更新了apktool_2.3.0.jar包,需要更改apktool脚本里的代码"jarfile=apktool_2.3.0.jar",使之对应
